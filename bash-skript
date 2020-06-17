@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo "Hallo Welt"
+
+echo "Hallo World" | sed 's/[ao]//g'
+
+echo "End"
